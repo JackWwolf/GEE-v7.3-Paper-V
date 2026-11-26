@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this manuscript or verification code, please cite it using the metadata below."
+type: software
+title: "Dynamic Entropic Metric Mesh, Bounded Cavity Resonator Chronology, Terminal Galaxy Kinematics, and Chiral Asymmetry in the Zero-Parameter GEE v7.3 Framework"
+authors:
+  - family-names: "Chen"
+    given-names: "Yen-Hao"
+    alias: "Seven-Colored Lotus"
+    orcid: "https://orcid.org/0009-0007-2299-0913"
+    affiliation: "Independent Researcher, Hsinchu, Taiwan"
+version: "7.3"
+date-released: "2026-11-26"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/Seven-Colored-Lotus/GEE-v7.3-Paper-V"
+keywords:
+  - "GEE v7.3"
+  - "Cosmology"
+  - "Entropic Gravity"
+  - "Bounded Cavity Resonator"
+  - "Dual-Clock Chronology"
+  - "Chiral Asymmetry"
+  - "Zero Free Parameters"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Chen"
+      given-names: "Yen-Hao"
+      orcid: "https://orcid.org/0009-0007-2299-0913"
+  title: "Dynamic Entropic Metric Mesh, Bounded Cavity Resonator Chronology, Terminal Galaxy Kinematics, and Chiral Asymmetry in the Zero-Parameter GEE v7.3 Framework"
+  year: 2026
+  notes: "Paper V in the GEE v7.3 Framework (Derived from Master Monograph DOI: 10.5281/zenodo.24509860)"
