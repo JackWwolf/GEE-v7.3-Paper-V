@@ -1,0 +1,34 @@
+{
+  "title": "Dynamic Entropic Metric Mesh, Bounded Cavity Resonator Chronology, Terminal Galaxy Kinematics, and Chiral Asymmetry in the Zero-Parameter GEE v7.3 Framework",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Chen, Yen-Hao",
+      "affiliation": "Independent Researcher, Hsinchu, Taiwan",
+      "orcid": "0009-0007-2299-0913"
+    }
+  ],
+  "description": "Building upon the covariant Global Geometric-Entropic-Electromagnetic framework (GEE v7.3, zero free parameters), this paper develops the dynamical mechanics and evolutionary chronology of a 68-shell bounded cosmic resonator (R_max = 68 Delta R = 14,178.00 Mpc = 46.2425 Gly) oscillating within a static Euclidean background container. We establish: (1) exact eigenmode boundary closure and a Dual-Clock Cosmic Chronology (92.4850 Gyr pre-matter entropic weaving phase followed by a 13.7962 Gyr baryonic atomic clock phase), unifying dark matter and dark energy as opposite interference phases; (2) the critical baryonic anti-node genesis threshold M_bar,crit = 8.4943e10 M_sun (V_crit = 191.78 km/s); (3) the universal cosmic terminal velocity v_term in [648.76, 973.14] km/s and 3D supervoid repeller forensics across galaxy clusters; and (4) the first-principles origin of galactic chiral spin asymmetry A_chiral(z) = tanh(0.200528 sqrt(1+z)) driven by chi_4 Chern-Simons torsion (beta = 0.34 deg). Includes the standalone zero-parameter Python verification suite (verify_paper5_v7.3.py).",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "GEE v7.3",
+    "Cosmology",
+    "Entropic Gravity",
+    "Bounded Cavity Resonator",
+    "Dual-Clock Chronology",
+    "Cosmic Bulk Flow",
+    "Chiral Asymmetry",
+    "Zero Free Parameters"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24509860",
+      "relation": "isDerivedFrom",
+      "resource_type": "publication-other",
+      "scheme": "doi"
+    }
+  ],
+  "language": "eng"
+}
